@@ -1,5 +1,6 @@
 # saved
 
+메모리 할당 확인 코드
 ```
 #include <stdlib.h>
 #include <stdio.h>
